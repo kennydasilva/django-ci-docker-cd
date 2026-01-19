@@ -1,0 +1,8 @@
+Django>=4.2,<5.0
+gunicorn
+mysqlclient
+
+pytest
+pytest-django
+coverage
+flake8
